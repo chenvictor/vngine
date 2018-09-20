@@ -1,1 +1,1 @@
-A simple visual novel engine
+A simple visual novel engine for detective style games.
